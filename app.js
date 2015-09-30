@@ -58,6 +58,8 @@ document.getElementById("buttonA").addEventListener("click", function (e) {
   myfizz.read(aVal, zVal);
 });
 
+
+// Basic Function
 // var aVal, zVal
 
 // document.getElementById("btn").addEventListener("click", function (e) {
